@@ -1,7 +1,12 @@
-"ModelInstance": "0x298"
-"idk-whats-this": "0x240"
-"identity": "0x30"
-"capabilities": "0x10"
-"max_capability": 0
-"identity_address": 0
-"capability_address": 0
+{
+  "ModelInstance": "0x298"
+  "idk-whats-this": "0x240"
+  "identity": "0x30"
+  "capabilities": "0x10"
+  "max_capability": 0
+  "identity_address": 0
+  "capability_address": 0
+  "name_offset": "0x48"
+  "bytecode_size": "0xA8"
+  "moduleflags": "0x192"
+}
